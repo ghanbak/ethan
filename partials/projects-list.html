@@ -1,0 +1,35 @@
+<div class="off-canvas-wrap" data-offcanvas>
+  <div class="inner-wrap">
+    <navigation></navigation>
+    <div class="projects">
+      <div ng-controller="ProjectsListCtrl" class="row">
+        <div class="small-12 columns">
+            <!--Body content-->
+
+            <div class="row">
+              <div ng-repeat="project in projects" class="ng-repeat small-12 medium-4 columns">
+                <div class="thumbnail project-listing">
+                  <a href="#/projects/{{project.id}}" class="thumb">
+                    <div class="overlay"></div>
+                    <img ng-src="{{project.imageUrl}}">
+                  </a>
+                  <div class="project-info">
+                    <h3><a href="#/projects/{{project.id}}">{{project.name}}</a></h3>
+                    <p>{{project.snippet}}</p>
+                    <ul class="button-group">
+                      <li><a class="tiny button" href="#/projects/{{project.id}}">View Project</a></li>
+                      <li><a class="tiny button" href="{{project.projectUrl}}" target="_blank">View Site</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+        </div>
+      </div>
+    </div>
+    <rdio></rdio>
+    <footer></footer>
+  </div>
+</div>
+

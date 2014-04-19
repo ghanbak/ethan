@@ -1,0 +1,12 @@
+{
+	"name": "Harmony of Keys",
+	"id": "harmony-of-keys",
+	"projectUrl": "http://harmonyofkeys.com",
+	"imageMain": "img/projects/harmony.jpg",
+	"snippet": "Harmony of Keys was created as a phase one role out of the website dedicated to my wife and myself. Phase one being the invitation to our wedding.",
+	"imageMockup": "img/projects/harmony-mock.jpg",
+	"description": "I had proposed to my wife on June 2, 2013. Our wedding plans were mildly aggressive and set for an early fall date. We needed a quick and affordable way to get the word out. I decided that while Susanna worked on plans for the actual day, I would design and build our site and invitation campaign using WordPress and Mailchimp. I sent out initial save the date emails using Mailchimp, then set to work building our site. I chose WordPress for the express use of an RSVP plugin I had seen used before. I designed the site as a two page site. The homepage consisted of the invitation, wedding date, event location, registry links and the RSVP link. The RSVP page implemented the plugin I was using. It required the invitee to sign in with their name. I had preconfigured the database with every guest's name, including children, spouses, etc. From there, I configured the RSVP options. They were allowed to RSVP for associated family members or write in the name of a date. Lastly, for administrative purposes, I configured the plugin to email me when someone RSVPd and frequently used the WordPress app to keep tabs on site performance and RSVPs.",
+	"turnAroundTime": "3",
+	"turnAroundMeasure": "months",
+	"cms": "img/wp.png"
+}

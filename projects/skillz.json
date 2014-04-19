@@ -1,0 +1,99 @@
+[
+    {
+        "age": 0,
+        "name": "drupal",
+        "percent": "80",
+        "logo": "img/drupal.png"
+    },
+
+    {
+        "age": 1,
+        "name": "magento",
+        "percent": "60",
+        "logo": "img/magento.png"
+    },
+
+    {
+        "age": 2,
+        "name": "wordpress",
+        "percent": "60",
+        "logo": "img/wp.png"
+    },
+
+    {
+        "age": 3,
+        "name": "github",
+        "percent": "90",
+        "logo": "img/github.png"
+    },
+
+    {
+        "age": 4,
+        "name": "html",
+        "percent": "100",
+        "logo": "img/html.png"
+    },
+
+    {
+        "age": 5,
+        "name": "css",
+        "percent": "100",
+        "logo": "img/css.png"
+    },
+
+    {
+        "age": 6,
+        "name": "js",
+        "percent": "30",
+        "logo": "img/js.png"
+    },
+
+    {
+        "age": 7,
+        "name": "sass",
+        "percent": "90",
+        "logo": "img/sass.png"
+    },
+
+    {
+        "age": 8,
+        "name": "haml",
+        "percent": "40",
+        "logo": "img/haml.png"
+    },
+
+    {
+        "age": 9,
+        "name": "angular",
+        "percent": "30",
+        "logo": "img/angular.png"
+    },
+
+    {
+        "age": 10,
+        "name": "ruby",
+        "percent": "15",
+        "logo": "img/ruby.png"
+    },
+
+    {
+        "age": 11,
+        "name": "php",
+        "percent": "30",
+        "logo": "img/php.png"
+    },
+
+    {
+        "age": 12,
+        "name": "ps",
+        "percent": "100",
+        "logo": "img/ps.png"
+    },
+
+    {
+        "age": 13,
+        "name": "ai",
+        "percent": "90",
+        "logo": "img/ai.png"
+    }
+]

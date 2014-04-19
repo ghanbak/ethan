@@ -1,0 +1,10 @@
+{ 
+    "id": "about", 
+    "profileUrl": "img/ethan.jpg", 
+    "name": "My name is Ethan. I make things.",
+    "summary": "I am a web designer, developer, and want-to-be programmer residing in the great city of Minneapolis. I have set myself to learning all there is to know about semantic code, intuitive UI design, and data manipulation all while becoming a Jedi Master.",
+    "bioStart": "I am a web designer, developer, and want-to-be programmer residing in the great city of Minneapolis. My journey through the grid has brought me knowledge of a few things. Under the tutilege of ",
+    "brandonLink": "http://brandonhundt.com",
+    "brandon": "Brandon Hundt",
+    "bioFinish": ", I started (as most newbs do) with HTML and CSS. The magic and wonder of transforming lines of code into a functioning and visually appeasing website took control. Soon I was delving into developing within popular CMS' like WordPress, Drupal, and Magento. While honing in on my skills as a UI designer, I continued to learn more about programming languages. Javascript was my target and continues to be my largest focus. Though I am no Zeldman or Eaton, I am always good enough to get better."
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Salon St. George",
+	"id": "salon-st-george",
+	"projectUrl": "http://salonstgeorge.com",
+	"imageMain": "img/projects/ssg.jpg",
+	"snippet": "Salon St. George is a wonderful salon in Richfield, MN. They provide a salon atmosphere for pampering and beautifications, a barber shop for clean cuts and smooth shaves, and hair replacement for those in need.",
+	"imageMockup": "img/projects/ssg-mock.jpg",
+	"description": "In early February of 2013, I was approached by a sales associate at the development firm I work for, he passed on contact information for a salon in Richfield, MN. I met with Jody and Christy Nelson, owners and stylists at Salon St. George. They desperately needed a web presence and over the next year, we worked together to make that a reality. Their salon has been around for two generations now, providing excellent salon precision, certified barbershop grooming and hair replacement for those in need.",
+	"turnAroundTime": "12",
+	"turnAroundMeasure": "months",
+	"cms": "img/drupal.png"
+}

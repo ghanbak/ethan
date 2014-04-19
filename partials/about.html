@@ -1,0 +1,53 @@
+<navigation></navigation>
+<div class="about-page" ng-controller="AboutCtrl"><!-- ng-controller="AboutCtrl" -->
+	<div class="bio">
+		<div class="row">
+		    <div class="medium-4 columns headshot">
+		      <img ng-src="{{about.profileUrl}}">
+		    </div>
+		    <div class="medium-8 columns about-text">
+		      <h1>{{about.name}}</h1>  
+		      <p>{{about.bioStart}}<a href="{{about.brandonLink}}" target="_blank">{{about.brandon}}</a>{{about.bioFinish}}</p>
+		    </div>
+		</div>
+	</div>
+	<div class="skillz">
+		<div class="row">
+			<div ng-controller="SkillzCtrl">
+				<div class="medium-12 columns">
+					<h2>Check Out My Mad Skillz</h2>
+				</div>
+				<div class="medium-6 columns">
+					<div class="skill" ng-repeat="skill in skill" ng-if="$index < 7">
+						<div class="row">
+							<div class="small-2 columns">
+								<img ng-src="{{skill.logo}}">
+							</div>
+							<div class="small-10 columns">
+								<div class="progress round">
+									<span class="meter {{skill.name}}" style="width: {{skill.percent}}%"></span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="medium-6 columns">
+					<div class="skill" ng-repeat="skill in skill" ng-if="$index >= 7">
+						<div class="row">
+							<div class="small-2 columns">
+								<img ng-src="{{skill.logo}}">
+							</div>
+							<div class="small-10 columns">
+								<div class="progress round">
+									<span class="meter {{skill.name}}" style="width: {{skill.percent}}%"></span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<rdio></rdio>
+</div>
+<footer></footer>

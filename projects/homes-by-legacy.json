@@ -1,0 +1,12 @@
+{
+	"name": "Homes by Legacy Builders",
+	"id": "homes-by-legacy",
+	"projectUrl": "http://homesbylegacybuilders.com",
+	"imageMain": "img/projects/legacy.jpg",
+	"snippet": "Homes by Legacy Builders is a great new-construction and remodeling company in the Twin Cities. Their attention to detail and on staff architectural designers help to create masterfully crafted living and work spaces.",
+	"imageMockup": "img/projects/legacy-mock.jpg",
+	"description": "Homes by Legacy Builders approached me with the dilemna of having no web presence. We immediately set to work on getting a good basis for drumming up business through our ever connected society. Since their domain was already through GoDaddy, we went with them for hosting as well. Included in the project was email through Google Apps for business. Once the basis was settled, we dove into design and development. Although the project was longer, this phase only lasted one month before the site was live. We decided to use WordPress as the CMS of choice. This decision was based on an aggressive launch deadline, ease of management, and the possibility for small expansion in the future.",
+	"turnAroundTime": "5",
+	"turnAroundMeasure": "months",
+	"cms": "img/wp.png"
+}

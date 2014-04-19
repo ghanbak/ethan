@@ -1,0 +1,28 @@
+[
+    {
+        "age": 0, 
+        "id": "harmony-of-keys", 
+        "imageUrl": "img/projects/harmony-grid.jpg", 
+        "name": "Harmony of Keys", 
+        "snippet": "Harmony of Keys was created as a phase one role out of the website dedicated to my wife and myself. Phase one being the invitation to our wedding.",
+        "projectUrl": "http://harmonyofkeys.com"
+    },
+
+    {
+        "age": 1, 
+        "id": "salon-st-george", 
+        "imageUrl": "img/projects/ssg-grid.jpg", 
+        "name": "Salon St. George", 
+        "snippet": "Salon St. George is a wonderful salon in Richfield, MN. They provide a salon atmosphere for pampering and beautifications, a barber shop for clean cuts and smooth shaves, and hair replacement for those in need.",
+        "projectUrl": "http://salonstgeorge.com"
+    },
+
+    {
+        "age": 2, 
+        "id": "homes-by-legacy", 
+        "imageUrl": "img/projects/legacy-grid.jpg", 
+        "name": "Homes by Legacy", 
+        "snippet": "Homes by Legacy Builders is a great new-construction and remodeling company in the Twin Cities. Their attention to detail and on staff architectural designers help to create masterfully crafted living and work spaces.",
+        "projectUrl": "http://homesbylegacybuilders.com"
+    }
+]

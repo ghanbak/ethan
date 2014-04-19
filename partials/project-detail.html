@@ -1,0 +1,40 @@
+<div class="off-canvas-wrap" data-offcanvas>
+  <div class="inner-wrap">
+	<navigation></navigation>
+	<div class="project-page" ng-controller="ProjectDetailCtrl">
+		<div class="splash-img">
+			<img ng-src="{{project.imageMain}}" />
+			<div class="project-name">
+				<h1>{{project.name}}</h1>
+			</div>
+		</div>
+		<div class="snippet">
+			<div class="row">
+				<div class="small-12 columns">
+					<p>{{project.snippet}}</p>
+				</div>
+			</div>
+		</div>
+		<div class="product-shots">
+			<img ng-src="{{project.imageMockup}}" />
+		</div>
+		<div class="details">
+			<div class="row">
+				<div class="medium-9 columns description">
+					<p>{{project.description}}</p>
+				</div>
+				<div class="medium-3 columns sidebar">
+					<a class="small button" href="{{project.projectUrl}}" target="_blank">View Site</a>
+					<div class="cms">
+						<h3>Built with <img ng-src="{{project.cms}}" /> over</h3>
+					</div>
+					<div class="time">
+						<h3><i class="fa fa-clock-o"></i> {{project.turnAroundTime}} {{project.turnAroundMeasure}}</h3>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<footer></footer>
+  </div>
+</div>
